@@ -1,5 +1,5 @@
 # News
-https://KardashHleb.github.io/News/
+https://KardashHleb.github.io/lab3/
 ## Инструкция по установке проекта
 ### склонировать репозиторий
 ```
